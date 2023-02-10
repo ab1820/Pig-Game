@@ -12,5 +12,6 @@ Play the game, see how everything works.
 https://ab1820.github.io/Pig-Game/
 
 <hr>
-![image](https://user-images.githubusercontent.com/114027684/218115963-a236e8fa-a9e2-4c45-b900-61d03a971296.png)
+![Screenshot 2023-02-10 092546](https://user-images.githubusercontent.com/114027684/218116205-cd785e54-e0eb-48e0-b82d-4201a543a614.png)
+
 
