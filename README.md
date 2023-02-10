@@ -7,3 +7,10 @@ Basically roullette for dice.
 
 Built with basic vanilla Javascript.
 
+Play the game, see how everything works. 
+
+https://ab1820.github.io/Pig-Game/
+
+<hr>
+![image](https://user-images.githubusercontent.com/114027684/218115963-a236e8fa-a9e2-4c45-b900-61d03a971296.png)
+
